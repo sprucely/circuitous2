@@ -11,5 +11,5 @@ func _ready():
 	pass
 
 func _draw():
-	#draw_circle(
+	draw_circle(Vector2(20, 20), 10, Color(1,0,0))
 	pass
